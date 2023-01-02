@@ -1,0 +1,10 @@
+{
+    "domain": "gbfs",
+    "name": "GBFS",
+    "documentation": "",
+    "issue_tracker": "",
+    "dependencies": [],
+    "codeowners": ["@obi11235"],
+    "requirements": [],
+    "version": "1.20221210"
+}
