@@ -197,5 +197,6 @@ class BikeShareData(object):
                 update_info = True
 
         self.info = station_data
-        self._update_info()
+        if update_info:
+            self._update_info()
 
